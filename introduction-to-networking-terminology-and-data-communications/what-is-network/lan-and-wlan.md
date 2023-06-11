@@ -10,6 +10,10 @@ A Local Area Network, or LAN, refers to a network infrastructure that connects c
 
 <figure><img src="../../.gitbook/assets/local Area network example.png" alt="LAN demonstration"><figcaption></figcaption></figure>
 
+#### Video Resource
+
+
+
 **Key characteristics of a LAN:**
 
 **1. Limited coverage:** LANs typically cover a small area, ranging from a single room to a few kilometers, providing connectivity within a specific physical location.
