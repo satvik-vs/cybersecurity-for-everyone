@@ -10,6 +10,12 @@ A Metropolitan Area Network, or MAN, is a network infrastructure that spans a me
 
 <figure><img src="../../.gitbook/assets/Metropolitan-area-network-diagram-1.jpg" alt=""><figcaption></figcaption></figure>
 
+### Video Sources
+
+{% content-ref url="http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/network-types-videos" %}
+[Network Types Videos](http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/network-types-videos)
+{% endcontent-ref %}
+
 **Key characteristics of a MAN:**
 
 **1. Coverage within a city:** MANs typically cover a specific metropolitan area or city, connecting various LANs and network nodes dispersed throughout the urban landscape.

@@ -10,6 +10,12 @@ In a ring topology, each device is connected to its adjacent devices, forming a 
 
 <figure><img src="../../.gitbook/assets/Untitled-Diagram-153-1.png" alt=""><figcaption></figcaption></figure>
 
+### Video Resources
+
+{% content-ref url="http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/network-topologies-videos" %}
+[Network Topologies Videos](http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/network-topologies-videos)
+{% endcontent-ref %}
+
 **Advantages of Ring Topology:**
 
 **1. Simplicity:** Ring topology is relatively simple to configure and implement.

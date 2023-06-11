@@ -8,6 +8,12 @@ In a hybrid topology, nodes are connected according to the specific topologies i
 
 <figure><img src="../../.gitbook/assets/hybrid-network-topology-0bbcb1a0f6fad19747d47399bd9392fa.png" alt=""><figcaption></figcaption></figure>
 
+### Video Resources
+
+{% content-ref url="http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/network-topologies-videos" %}
+[Network Topologies Videos](http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/network-topologies-videos)
+{% endcontent-ref %}
+
 **Advantages of Hybrid Topology:**
 
 **1. Flexibility and Scalability:** Hybrid topology allows for flexibility in network design by combining different topologies. It offers scalability as individual networks can be expanded independently without affecting the entire hybrid network.

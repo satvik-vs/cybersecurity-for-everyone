@@ -8,6 +8,12 @@ The Internet has become an integral part of our daily lives, revolutionizing the
 
 <figure><img src="../../.gitbook/assets/tq354kk6-beneficail.avif" alt=""><figcaption></figcaption></figure>
 
+### Video Resources
+
+{% content-ref url="http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/network-types-videos" %}
+[Network Types Videos](http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/network-types-videos)
+{% endcontent-ref %}
+
 **I. Understanding the Internet's Global Connectivity**
 
 1\. The Internet as a Network of Networks: Exploring the Interconnectedness

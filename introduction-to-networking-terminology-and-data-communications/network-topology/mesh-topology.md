@@ -8,6 +8,12 @@ In a mesh topology, devices are interconnected in a point-to-point manner. Each 
 
 <figure><img src="../../.gitbook/assets/mesh-topology-3042d00709bcc03eaf168c32105057aa.png" alt=""><figcaption></figcaption></figure>
 
+### Video Resources
+
+{% content-ref url="http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/network-topologies-videos" %}
+[Network Topologies Videos](http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/network-topologies-videos)
+{% endcontent-ref %}
+
 **Advantages of Mesh Topology:**
 
 **1. Robust and Reliable:** Mesh topology offers high reliability and fault tolerance due to its redundant paths. If one path fails, data can automatically reroute through alternative paths, ensuring continuous communication.

@@ -12,8 +12,8 @@ A Local Area Network, or LAN, refers to a network infrastructure that connects c
 
 #### Video Resource
 
-{% content-ref url="http://localhost:5000/o/RP71G4wkdFVJemu5aEjc/s/ZeJJu3qDetIU3qPmLSmZ/" %}
-[Copy of Video Sources](http://localhost:5000/o/RP71G4wkdFVJemu5aEjc/s/ZeJJu3qDetIU3qPmLSmZ/)
+{% content-ref url="http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/network-types-videos" %}
+[Network Types Videos](http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/network-types-videos)
 {% endcontent-ref %}
 
 **Key characteristics of a LAN:**

@@ -8,6 +8,12 @@ In a tree topology, devices are connected in a hierarchical manner. The central 
 
 <figure><img src="../../.gitbook/assets/tree-topology-advantages-and-disadvantages.png" alt=""><figcaption></figcaption></figure>
 
+### Video Resources
+
+{% content-ref url="http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/network-topologies-videos" %}
+[Network Topologies Videos](http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/network-topologies-videos)
+{% endcontent-ref %}
+
 **Advantages of Tree Topology:**
 
 **1. Scalability:** Tree topology supports scalability, allowing the addition of new devices or expansion of the network without affecting the entire structure. New devices can be connected to existing nodes or branches.

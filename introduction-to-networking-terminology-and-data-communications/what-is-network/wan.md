@@ -10,6 +10,12 @@ A Wide Area Network, or WAN, is a network infrastructure that spans a large geog
 
 <figure><img src="../../.gitbook/assets/Wide-Area-Network-Advantages-and-Disadvantages-1.jpg" alt=""><figcaption></figcaption></figure>
 
+### Video Resources
+
+{% content-ref url="http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/network-types-videos" %}
+[Network Types Videos](http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/network-types-videos)
+{% endcontent-ref %}
+
 **Key characteristics of a WAN:**
 
 **1. Extensive coverage:** Unlike LANs, which have limited coverage, WANs can span vast distances, crossing multiple cities, regions, or countries, facilitating communication on a global scale.

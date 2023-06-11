@@ -8,6 +8,12 @@ In a star topology, each device is connected individually to a central hub or sw
 
 <figure><img src="../../.gitbook/assets/Star-Topology.png" alt=""><figcaption></figcaption></figure>
 
+### Video Resources
+
+{% content-ref url="http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/network-topologies-videos" %}
+[Network Topologies Videos](http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/network-topologies-videos)
+{% endcontent-ref %}
+
 **Advantages of Star Topology:**
 
 **1. Centralized Management:** Star topology allows for centralized management and control. The central hub simplifies network monitoring, troubleshooting, and administration tasks.

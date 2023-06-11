@@ -6,6 +6,12 @@ Bus topology is a network configuration in which all devices are connected to a 
 
 <figure><img src="../../.gitbook/assets/What-is-Bus-Topology-with-example.jpg" alt=""><figcaption></figcaption></figure>
 
+### Video Resources
+
+{% content-ref url="http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/network-topologies-videos" %}
+[Network Topologies Videos](http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/network-topologies-videos)
+{% endcontent-ref %}
+
 **Connecting Nodes in Bus Topology:**
 
 In a bus topology, devices are connected by tapping into the central bus through drop lines. Each device is connected to the bus using connectors or adapters. When a device wants to transmit data, it sends the data onto the bus, where it can be received by all other devices connected to the bus. However, only the intended recipient processes and acts upon the data.
