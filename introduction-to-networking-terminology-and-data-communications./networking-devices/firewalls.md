@@ -16,6 +16,10 @@ The main purpose of a firewall is to enforce network security policies by implem
 
 **4. Network Address Translation (NAT):** Firewalls often include NAT functionality, which masks the internal IP addresses of devices, adding an extra layer of security by hiding the internal network structure.
 
+{% content-ref url="http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/video-resources/network-devices-videos" %}
+[Network Devices Videos](http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/video-resources/network-devices-videos)
+{% endcontent-ref %}
+
 <figure><img src="../../.gitbook/assets/3-s2.0-B9780123743541000212-gr1.jpg" alt=""><figcaption></figcaption></figure>
 
 Firewalls can be implemented as hardware appliances, software applications, or a combination of both. They are typically deployed at network entry points, such as the boundary between the internal network and the internet, to protect the entire network from external threats.

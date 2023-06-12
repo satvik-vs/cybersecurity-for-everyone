@@ -24,6 +24,12 @@ Hubs are basic network devices that serve as central connection points for devic
 
 <figure><img src="../../.gitbook/assets/What-is-hub-1.png" alt="" width="330"><figcaption></figcaption></figure>
 
+### Video Resources :tada:
+
+{% content-ref url="http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/video-resources/network-devices-videos" %}
+[Network Devices Videos](http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/video-resources/network-devices-videos)
+{% endcontent-ref %}
+
 **Switches:**
 
 Switches, on the other hand, are more advanced network devices that operate at the data link layer of the network. Unlike hubs, switches have the ability to examine the data packets they receive and determine the destination device based on their Media Access Control (MAC) addresses. This enables switches to create dedicated pathways between devices, allowing for more efficient and secure communication within the network. By directing data only to the intended recipient, switches eliminate collisions and optimize network performance.

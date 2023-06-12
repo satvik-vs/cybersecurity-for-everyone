@@ -12,6 +12,12 @@ A router is a network device that connects and directs data between different co
 
 A typical router consists of several components, including multiple network interfaces (ports), a routing table, and a processor. The network interfaces connect to different networks, while the routing table holds information about network addresses and available paths. The processor handles the routing decisions and ensures efficient data transmission.
 
+### Video Resources :tada:
+
+{% content-ref url="http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/video-resources/network-devices-videos" %}
+[Network Devices Videos](http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/video-resources/network-devices-videos)
+{% endcontent-ref %}
+
 ### Section 3: How Does a Router Work?
 
 #### Step 1: Receiving Data Packets

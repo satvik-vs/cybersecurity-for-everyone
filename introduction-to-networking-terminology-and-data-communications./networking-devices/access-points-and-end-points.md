@@ -12,6 +12,12 @@ Endpoints are devices connected to a network that initiate or consume network co
 
 <figure><img src="../../.gitbook/assets/Figure-1-1.png" alt=""><figcaption></figcaption></figure>
 
+### Video Resources :tada:
+
+{% content-ref url="http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/video-resources/network-devices-videos" %}
+[Network Devices Videos](http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/video-resources/network-devices-videos)
+{% endcontent-ref %}
+
 In summary, an Access Point is a device that creates a wireless network, allowing wireless devices to connect to a wired network infrastructure. Endpoints, on the other hand, are the devices that access or utilize network resources. Access Points serve as the central hub for wireless connectivity, while endpoints are the devices that connect to the network for communication and resource access.
 
 ### [Differences between Access Points and Endpoints](#user-content-fn-1)[^1]
