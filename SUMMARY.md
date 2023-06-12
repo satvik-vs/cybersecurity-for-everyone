@@ -14,4 +14,11 @@
     * [Mesh Topology](introduction-to-networking-terminology-and-data-communications/network-topology/mesh-topology.md)
     * [tree topology](introduction-to-networking-terminology-and-data-communications/network-topology/tree-topology.md)
     * [Hybrid Topology](introduction-to-networking-terminology-and-data-communications/network-topology/hybrid-topology.md)
-* [What is Kali Linux and it's Installation on your PC/LAPTOP](what-is-kali-linux-and-its-installation-on-your-pc-laptop.md)
+
+## Group 1
+
+* [What is Kali Linux and its installation on windows](group-1/what-is-kali-linux-and-its-installation-on-windows/README.md)
+  * [What is an Operating System ( OS )](group-1/what-is-kali-linux-and-its-installation-on-windows/what-is-an-operating-system-os.md)
+  * [Different types of OS](group-1/what-is-kali-linux-and-its-installation-on-windows/different-types-of-os.md)
+  * [Kali Linux installation on windows through vmware](group-1/what-is-kali-linux-and-its-installation-on-windows/kali-linux-installation-on-windows-through-vmware.md)
+  * [Different linux distributions](group-1/what-is-kali-linux-and-its-installation-on-windows/different-linux-distributions.md)
