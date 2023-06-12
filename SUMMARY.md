@@ -14,6 +14,10 @@
     * [Mesh Topology](introduction-to-networking-terminology-and-data-communications/network-topology/mesh-topology.md)
     * [tree topology](introduction-to-networking-terminology-and-data-communications/network-topology/tree-topology.md)
     * [Hybrid Topology](introduction-to-networking-terminology-and-data-communications/network-topology/hybrid-topology.md)
+  * [Networking Devices](introduction-to-networking-terminology-and-data-communications./networking-devices/README.md)
+    * [Hubs and Switches](introduction-to-networking-terminology-and-data-communications./networking-devices/hubs-and-switches.md)
+    * [Routers](introduction-to-networking-terminology-and-data-communications./networking-devices/routers.md)
+    * [Servers](introduction-to-networking-terminology-and-data-communications./networking-devices/servers.md)
 
 ## Group 1
 
