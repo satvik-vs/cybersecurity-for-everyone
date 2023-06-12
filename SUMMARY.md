@@ -18,6 +18,8 @@
     * [Hubs and Switches](introduction-to-networking-terminology-and-data-communications./networking-devices/hubs-and-switches.md)
     * [Routers](introduction-to-networking-terminology-and-data-communications./networking-devices/routers.md)
     * [Servers](introduction-to-networking-terminology-and-data-communications./networking-devices/servers.md)
+    * [Firewalls](introduction-to-networking-terminology-and-data-communications./networking-devices/firewalls.md)
+    * [Access Points and End points](introduction-to-networking-terminology-and-data-communications./networking-devices/access-points-and-end-points.md)
 
 ## Group 1
 
