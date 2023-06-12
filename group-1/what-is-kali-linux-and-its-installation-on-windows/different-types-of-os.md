@@ -4,6 +4,8 @@
 
 Operating systems come in different types, each designed to fulfill specific needs and cater to different computing environments. Here are some prominent types of operating systems and their founders:
 
+<figure><img src="../../.gitbook/assets/1665287455268.jpg" alt=""><figcaption></figcaption></figure>
+
 **1. UNIX (Ken Thompson and Dennis Ritchie):**
 
 \- UNIX is a multitasking, multi-user operating system initially developed at Bell Labs in the 1970s.
@@ -15,6 +17,8 @@ Operating systems come in different types, each designed to fulfill specific nee
 \- Windows, developed by Microsoft, is a widely used operating system for personal computers.
 
 \- It provides a user-friendly GUI, support for various software applications, and compatibility with a wide range of hardware.
+
+
 
 **3. Linux (Linus Torvalds):**
 

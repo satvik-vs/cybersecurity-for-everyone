@@ -1,5 +1,7 @@
 # Different linux distributions
 
+<figure><img src="../../.gitbook/assets/The_best_Linux_distros_800x533.jpg" alt=""><figcaption></figcaption></figure>
+
 * **Kali Linux:** Kali Linux is a penetration testing distribution designed for security professionals. It comes with a wide range of tools for penetration testing, including network scanners, vulnerability scanners, and password cracking tools.
 * **Arch Linux:** Arch Linux is a rolling release distribution, which means that it is constantly being updated with the latest software. Arch Linux is known for its customizability and its large community of users.
 * **Red Hat Linux:** Red Hat Linux is a commercial distribution that is used by many businesses and organizations. It is known for its stability and its support for enterprise applications.
