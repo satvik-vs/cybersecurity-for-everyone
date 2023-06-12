@@ -7,9 +7,10 @@ coverY: 0
 
 <mark style="color:green;">**Topics Covered**</mark>
 
-| Topic Name                 |                                                                                        |
-| -------------------------- | -------------------------------------------------------------------------------------- |
-| Types of Operating Systems | Windows , Linux , Mac                                                                  |
-| Linux Installation         | on windows and MAC                                                                     |
-| Various Linux Versions     | <p>Kali Linux , Arch Linux , Red-Hat Linux<br>Centos , Debian , Fedora , Parrot-os</p> |
+| Topic Name                  | Sub Topics                                                                             |
+| --------------------------- | -------------------------------------------------------------------------------------- |
+| What is an operating system | OS and Its components                                                                  |
+| Types of Operating Systems  | Windows , Linux , Mac                                                                  |
+| Linux Installation          | on windows and MAC                                                                     |
+| Various Linux Versions      | <p>Kali Linux , Arch Linux , Red-Hat Linux<br>Centos , Debian , Fedora , Parrot-os</p> |
 
