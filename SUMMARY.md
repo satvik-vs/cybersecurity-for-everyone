@@ -23,6 +23,7 @@
   * [IP address](introduction-to-networking-terminology-and-data-communications./ip-address/README.md)
     * [Dynamic and Static IP](introduction-to-networking-terminology-and-data-communications./ip-address/dynamic-and-static-ip.md)
     * [IPV4 and IPV6](introduction-to-networking-terminology-and-data-communications./ip-address/ipv4-and-ipv6.md)
+    * [Anatomy of IPv4 and IPV6 ](introduction-to-networking-terminology-and-data-communications./ip-address/anatomy-of-ipv4-and-ipv6.md)
 
 ## Group 1
 
