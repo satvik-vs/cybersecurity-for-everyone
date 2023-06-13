@@ -4,9 +4,11 @@
 
 Have you ever wondered how your computer magically connects to websites with just a few clicks? The answer lies in a fascinating technology called the Domain Name System (DNS). In this beginner-friendly blog post, we will explore what DNS is, how it works, and why it is essential for our everyday internet experience.
 
-### See this video by IBM and then read the theory part below
+### See this video by IBM or Google and then read the theory part below
 
 {% embed url="https://youtu.be/nyH0nYhMW9M" %}
+
+{% embed url="https://youtu.be/X-pgKykKHfs" %}
 
 **1. What is DNS?**
 
