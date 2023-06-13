@@ -26,6 +26,7 @@
     * [Anatomy of IPv4 and IPV6 ](introduction-to-networking-terminology-and-data-communications./ip-address/anatomy-of-ipv4-and-ipv6.md)
   * [MAC address](introduction-to-networking-terminology-and-data-communications./mac-address.md)
   * [DNS](introduction-to-networking-terminology-and-data-communications./dns.md)
+  * [Subnet Mask or Subnetting](introduction-to-networking-terminology-and-data-communications./subnet-mask-or-subnetting.md)
 
 ## Group 1
 
