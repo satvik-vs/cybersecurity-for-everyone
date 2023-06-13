@@ -20,6 +20,9 @@
     * [Servers](introduction-to-networking-terminology-and-data-communications./networking-devices/servers.md)
     * [Firewalls](introduction-to-networking-terminology-and-data-communications./networking-devices/firewalls.md)
     * [Access Points and End points](introduction-to-networking-terminology-and-data-communications./networking-devices/access-points-and-end-points.md)
+  * [IP address](introduction-to-networking-terminology-and-data-communications./ip-address/README.md)
+    * [Dynamic and Static IP](introduction-to-networking-terminology-and-data-communications./ip-address/dynamic-and-static-ip.md)
+    * [IPV4 and IPV6](introduction-to-networking-terminology-and-data-communications./ip-address/ipv4-and-ipv6.md)
 
 ## Group 1
 
