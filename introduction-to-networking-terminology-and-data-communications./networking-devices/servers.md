@@ -12,6 +12,8 @@ A server's primary purpose is to respond to requests and provide services to oth
 [Network Devices Videos](http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/video-resources/network-devices-videos)
 {% endcontent-ref %}
 
+{% embed url="https://youtu.be/Z_hU2zm4_S8?t=1171" %}
+
 Think of a server as a specialized computer designed to handle and fulfill specific tasks efficiently. It is usually more powerful and has more storage capacity compared to regular computers. Servers are often kept in secure and temperature-controlled environments, known as data centers, to ensure their continuous operation and reliability.
 
 Servers operate based on the client-server model, where clients make requests to the server, and the server responds with the requested information or service. This model enables multiple devices to access and utilize shared resources efficiently.

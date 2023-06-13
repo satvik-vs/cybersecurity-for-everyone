@@ -26,6 +26,8 @@ Hubs are basic network devices that serve as central connection points for devic
 
 ### Video Resources :tada:
 
+{% embed url="https://youtu.be/Z_hU2zm4_S8?t=907" %}
+
 {% content-ref url="http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/video-resources/network-devices-videos" %}
 [Network Devices Videos](http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/video-resources/network-devices-videos)
 {% endcontent-ref %}

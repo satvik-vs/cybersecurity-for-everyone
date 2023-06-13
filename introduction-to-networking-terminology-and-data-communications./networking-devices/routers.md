@@ -18,6 +18,8 @@ A typical router consists of several components, including multiple network inte
 [Network Devices Videos](http://localhost:5000/s/ZeJJu3qDetIU3qPmLSmZ/video-resources/network-devices-videos)
 {% endcontent-ref %}
 
+{% embed url="https://youtu.be/Z_hU2zm4_S8?t=1045" %}
+
 ### Section 3: How Does a Router Work?
 
 #### Step 1: Receiving Data Packets
