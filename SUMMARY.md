@@ -27,6 +27,7 @@
   * [MAC address](introduction-to-networking-terminology-and-data-communications./mac-address.md)
   * [DNS](introduction-to-networking-terminology-and-data-communications./dns.md)
   * [Subnet Mask or Subnetting](introduction-to-networking-terminology-and-data-communications./subnet-mask-or-subnetting.md)
+  * [Ports in Networking](introduction-to-networking-terminology-and-data-communications./ports-in-networking.md)
 
 ## Group 1
 
