@@ -28,6 +28,9 @@
   * [DNS](introduction-to-networking-terminology-and-data-communications./dns.md)
   * [Subnet Mask or Subnetting](introduction-to-networking-terminology-and-data-communications./subnet-mask-or-subnetting.md)
   * [Ports in Networking](introduction-to-networking-terminology-and-data-communications./ports-in-networking.md)
+  * [introduction to OSI Model](introduction-to-networking-terminology-and-data-communications./introduction-to-osi-model/README.md)
+    * [Physical Layer](introduction-to-networking-terminology-and-data-communications./introduction-to-osi-model/physical-layer.md)
+    * [Data Link Layer](introduction-to-networking-terminology-and-data-communications./introduction-to-osi-model/data-link-layer.md)
 
 ## Group 1
 
