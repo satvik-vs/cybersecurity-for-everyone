@@ -31,6 +31,7 @@
   * [introduction to OSI Model](introduction-to-networking-terminology-and-data-communications./introduction-to-osi-model/README.md)
     * [Physical Layer](introduction-to-networking-terminology-and-data-communications./introduction-to-osi-model/physical-layer.md)
     * [Data Link Layer](introduction-to-networking-terminology-and-data-communications./introduction-to-osi-model/data-link-layer.md)
+    * [Network Layer](introduction-to-networking-terminology-and-data-communications./introduction-to-osi-model/network-layer.md)
 
 ## Group 1
 
