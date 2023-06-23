@@ -33,6 +33,7 @@
     * [Data Link Layer](introduction-to-networking-terminology-and-data-communications./introduction-to-osi-model/data-link-layer.md)
     * [Network Layer](introduction-to-networking-terminology-and-data-communications./introduction-to-osi-model/network-layer.md)
     * [Transport Layer](introduction-to-networking-terminology-and-data-communications./introduction-to-osi-model/transport-layer.md)
+    * [Session Layer](introduction-to-networking-terminology-and-data-communications./introduction-to-osi-model/session-layer.md)
 
 ## Group 1
 
